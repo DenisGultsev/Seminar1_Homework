@@ -1,0 +1,15 @@
+E:\GeekBrains\SoftwareDeveloper\Seminar1_Homework\Task001_Min_Max\bin\Debug\net6.0\Task001_Min_Max.exe
+E:\GeekBrains\SoftwareDeveloper\Seminar1_Homework\Task001_Min_Max\bin\Debug\net6.0\Task001_Min_Max.deps.json
+E:\GeekBrains\SoftwareDeveloper\Seminar1_Homework\Task001_Min_Max\bin\Debug\net6.0\Task001_Min_Max.runtimeconfig.json
+E:\GeekBrains\SoftwareDeveloper\Seminar1_Homework\Task001_Min_Max\bin\Debug\net6.0\Task001_Min_Max.dll
+E:\GeekBrains\SoftwareDeveloper\Seminar1_Homework\Task001_Min_Max\bin\Debug\net6.0\Task001_Min_Max.pdb
+E:\GeekBrains\SoftwareDeveloper\Seminar1_Homework\Task001_Min_Max\obj\Debug\net6.0\Task001_Min_Max.csproj.AssemblyReference.cache
+E:\GeekBrains\SoftwareDeveloper\Seminar1_Homework\Task001_Min_Max\obj\Debug\net6.0\Task001_Min_Max.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\SoftwareDeveloper\Seminar1_Homework\Task001_Min_Max\obj\Debug\net6.0\Task001_Min_Max.AssemblyInfoInputs.cache
+E:\GeekBrains\SoftwareDeveloper\Seminar1_Homework\Task001_Min_Max\obj\Debug\net6.0\Task001_Min_Max.AssemblyInfo.cs
+E:\GeekBrains\SoftwareDeveloper\Seminar1_Homework\Task001_Min_Max\obj\Debug\net6.0\Task001_Min_Max.csproj.CoreCompileInputs.cache
+E:\GeekBrains\SoftwareDeveloper\Seminar1_Homework\Task001_Min_Max\obj\Debug\net6.0\Task001_Min_Max.dll
+E:\GeekBrains\SoftwareDeveloper\Seminar1_Homework\Task001_Min_Max\obj\Debug\net6.0\refint\Task001_Min_Max.dll
+E:\GeekBrains\SoftwareDeveloper\Seminar1_Homework\Task001_Min_Max\obj\Debug\net6.0\Task001_Min_Max.pdb
+E:\GeekBrains\SoftwareDeveloper\Seminar1_Homework\Task001_Min_Max\obj\Debug\net6.0\Task001_Min_Max.genruntimeconfig.cache
+E:\GeekBrains\SoftwareDeveloper\Seminar1_Homework\Task001_Min_Max\obj\Debug\net6.0\ref\Task001_Min_Max.dll
